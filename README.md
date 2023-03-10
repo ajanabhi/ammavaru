@@ -1,4 +1,4 @@
 # ammavaru
 app for talli vaibhavam
 
-aryasatakamu ,anand satakam
+aryasatakamu ,anand satakam,soundarya lahari
